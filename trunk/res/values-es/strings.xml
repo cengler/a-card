@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ACard</string>
+    <string name="add_card">Agregar Tarjeta</string>
+    <string name="add_expense">Agregar Gasto</string>
+	<string name="view_summary">Ver Resumen</string>
+	<string name="title_activity_add_card">Agregar Tarjeta</string>
+	<string name="card_name">Nombre de Tarjeta</string>
+	
+</resources>
