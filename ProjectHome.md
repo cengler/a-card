@@ -1,0 +1,1 @@
+Lleva el control de las compras con tu tarjeta de credito desde tu smartphone.
